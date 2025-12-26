@@ -1,8 +1,20 @@
-# React + Vite
+Live Demo - https://transactionmang.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💰 Transaction Manager
 
-Currently, two official plugins are available:
+A simple and responsive transaction management app where users can add, view, and delete income or expense entries. The app automatically calculates the balance and presents all details in a clean and modern interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- Add income & expense transactions
+- Auto balance calculation
+- View list of all transactions
+- Delete entries anytime
+- Clean and modern UI
+- Fully responsive for desktop & mobile
+
+## 🛠 Tech Stack
+
+- Frontend: React.js, Tailwind CSS, JavaScript
+- Deployment: Netlify
+
